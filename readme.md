@@ -21,7 +21,14 @@ The provided script dynamically retrieves the UIDs of all storage devices on the
 1. Copy the script to your local machine or directly to the ESXi host.
 
 2. Make the script executable:
+```bash
 chmod +x temp.sh
+```
+
+3. Run the script:
+```bash
+./temp.sh
+```
 
 
 ## Usage
